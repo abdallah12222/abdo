@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.coinradar1.xyz/2025/05/why-bitcoin-is-called-digital-gold.html</loc>
+    <lastmod>2025-05-07T12:24:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.coinradar1.xyz/2025/05/10-mistakes-every-new-crypto-investor.html</loc>
+    <lastmod>2025-05-07T12:16:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.coinradar1.xyz/2025/05/crypto-regulation-whats-coming-in-2025.html</loc>
+    <lastmod>2025-05-07T12:09:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.coinradar1.xyz/2025/05/layer-2-solutions-next-crypto-boom.html</loc>
+    <lastmod>2025-05-07T11:54:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.coinradar1.xyz/2025/05/why-nfts-are-not-dead-yet.html</loc>
+    <lastmod>2025-05-07T11:26:04Z</lastmod>
+  </url>
+</urlset>
